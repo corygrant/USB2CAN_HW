@@ -18,10 +18,10 @@ L MCU_ST_STM32F3:STM32F302C6Tx U3
 U 1 1 601E2764
 P 8725 3750
 F 0 "U3" H 8175 5200 50  0000 C CNN
-F 1 "STM32F302C6Tx" H 9325 5200 50  0000 C CNN
+F 1 "STM32F302C8Tx" H 9325 5200 50  0000 C CNN
 F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 8125 2350 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00093333.pdf" H 8725 3750 50  0001 C CNN
-F 4 "497-18926-ND" H 8725 3750 50  0001 C CNN "Digi-Key_PN"
+F 4 "497-14699-ND" H 8725 3750 50  0001 C CNN "Digi-Key_PN"
 	1    8725 3750
 	1    0    0    -1  
 $EndComp
@@ -77,18 +77,6 @@ F 2 "Connector_USB:USB_C_Receptacle_GCT_USB4085" H 1425 2350 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1425 2350 50  0001 C CNN
 F 4 "2073-USB4085-GF-ACT-ND" H 1275 2350 50  0001 C CNN "Digi-Key_PN"
 	1    1275 2350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Interface_CAN_LIN:MCP2551-I-SN U1
-U 1 1 601EC805
-P 2250 6350
-F 0 "U1" H 1900 6700 50  0000 C CNN
-F 1 "MCP2551" H 2625 6700 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2250 5850 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf" H 2250 6350 50  0001 C CNN
-F 4 "MCP2551T-I/SNCT-ND" H 2250 6350 50  0001 C CNN "Digi-Key_PN"
-	1    2250 6350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1325,4 +1313,15 @@ Wire Wire Line
 Connection ~ 6375 6325
 Wire Wire Line
 	6375 6325 6550 6325
+$Comp
+L Interface_CAN_LIN:MCP2562-H-SN U?
+U 1 1 60A7C9F8
+P 2250 6350
+F 0 "U?" H 1900 6725 50  0000 C CNN
+F 1 "MCP2562-H-SN" H 2600 6725 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2250 5850 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf" H 2250 6350 50  0001 C CNN
+	1    2250 6350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

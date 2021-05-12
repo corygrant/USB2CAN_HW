@@ -80,18 +80,6 @@ F 4 "2073-USB4085-GF-ACT-ND" H 1275 2350 50  0001 C CNN "Digi-Key_PN"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Interface_CAN_LIN:MCP2551-I-SN U1
-U 1 1 601EC805
-P 2250 6350
-F 0 "U1" H 1900 6700 50  0000 C CNN
-F 1 "MCP2551" H 2625 6700 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2250 5850 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf" H 2250 6350 50  0001 C CNN
-F 4 "MCP2551T-I/SNCT-ND" H 2250 6350 50  0001 C CNN "Digi-Key_PN"
-	1    2250 6350
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR026
 U 1 1 601F61BF
 P 8525 5425
@@ -1325,4 +1313,15 @@ Wire Wire Line
 Connection ~ 6375 6325
 Wire Wire Line
 	6375 6325 6550 6325
+$Comp
+L Interface_CAN_LIN:MCP2562-H-SN U1
+U 1 1 60A7C9F8
+P 2250 6350
+F 0 "U1" H 1900 6725 50  0000 C CNN
+F 1 "MCP2562-H-SN" H 2600 6725 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2250 5850 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf" H 2250 6350 50  0001 C CNN
+	1    2250 6350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
