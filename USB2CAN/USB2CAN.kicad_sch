@@ -2491,7 +2491,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid c079a789-9ece-448c-aee9-a19b740b5477)
   )
-  (text "-Removed USB_PU and USB_VBUS\n-R7 pullup straight to 3.3V"
+  (text "V2\n-Removed USB_PU and USB_VBUS\n-R7 pullup straight to 3.3V"
     (at 184.15 161.29 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cb3bfe3f-4ce5-447c-b68a-f0b9a64fb392)
