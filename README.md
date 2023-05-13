@@ -1,4 +1,4 @@
-# USB2CAN_FW
+# USB2CAN_HW
 USB to CAN adapter based on the work done by [Hubert Denkmair](https://github.com/HubertD) and [Ethan Zonca](https://github.com/normaldotcom)
 
 The project was started because of the shortage of STM32 parts available.
