@@ -14,9 +14,11 @@ The protocol implemented is SLCAN, although not all functions are complete or in
 The firmware is a combination of [canable firmware](https://github.com/normaldotcom/canable-fw) and [candleLight firmware](https://github.com/candle-usb/candleLight_fw)
 
 # Renderings
-![Top](/Renders/USB2CAN_Top.jpg)
+![Top](/Images/Top1.jpg)
 
-![Bottom](/Renders/USB2CAN_Bottom.jpg)
+![Top2](/Images/Top2.jpg)
+
+![Bottom](/Images/Bottom.jpg)
 
 # Firmware
 [USB2CAN firmware](https://github.com/corygrant/USB2CAN_FW)
