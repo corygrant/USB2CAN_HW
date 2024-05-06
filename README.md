@@ -13,7 +13,9 @@ The protocol implemented is SLCAN, although not all functions are complete or in
 
 The firmware is a combination of [canable firmware](https://github.com/normaldotcom/canable-fw) and [candleLight firmware](https://github.com/candle-usb/candleLight_fw)
 
-# Renderings
+# [Store](https://dingo-electronics.square.site/product/usb2can/2)
+
+# Photos
 ![Top](/Images/Top1.jpg)
 
 ![Top2](/Images/Top2.jpg)
@@ -22,3 +24,6 @@ The firmware is a combination of [canable firmware](https://github.com/normaldot
 
 # Firmware
 [USB2CAN firmware](https://github.com/corygrant/USB2CAN_FW)
+
+# Disclaimer
+Please note that this product has been designed by a hobbyist, not a professional. It is intended for off-road and testing use only. Users should operate the product at their own discretion and risk. The designer explicitly disclaims any responsibility for damage or injury that may result from the use of this product.
