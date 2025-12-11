@@ -39,7 +39,7 @@ The firmware is a combination of [canable firmware](https://github.com/normaldot
 
 # BOM
 
-[Interactive BOM](https://github.com/corygrant/USB2CAN_HW/tree/main/docs/bom/ibom.html)
+[Interactive BOM](https://htmlpreview.github.io/?https://github.com/corygrant/USB2CAN_HW/tree/main/docs/bom/ibom.html)
 
 # Firmware
 
