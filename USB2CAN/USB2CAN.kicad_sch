@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "USB2CAN")
-		(date "2023-05-03")
-		(rev "V2")
+		(date "2025-12-10")
+		(rev "V3")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_SWD_TagConnect_TC2030-NL"
