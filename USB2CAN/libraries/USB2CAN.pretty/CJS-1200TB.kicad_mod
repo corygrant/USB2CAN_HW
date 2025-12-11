@@ -1,0 +1,241 @@
+(footprint "CJS-1200TB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "SW1"
+		(at 3.6068 -1.7018 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "25ba8eb3-9547-4adb-b525-5b5f24f93557")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_SPDT"
+		(at 4.6228 2.7686 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e59d0af6-54a4-4dfd-814a-886a69d3e32e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5bc91d38-3f8a-4da2-9356-c159f82c62a3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Switch, single pole double throw"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "582ed549-17e0-4503-8602-c5e70c70172c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "563-1022-1-ND"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1460e11e-62b4-49e9-9fc5-819f6ec949f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.7 -1.25)
+		(end 2.7 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "23d12f68-241c-489f-a30f-7047bfa5265e")
+	)
+	(fp_line
+		(start -2.7 1.25)
+		(end -2.7 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f9a8612c-2ac3-41f5-ac71-a22f26f3d1ad")
+	)
+	(fp_line
+		(start -1.3 -0.5)
+		(end 1.3 -0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8faebf1-272f-4027-b6a2-094afe21397a")
+	)
+	(fp_line
+		(start -1.3 0.5)
+		(end -1.3 -0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aec4acbc-b36a-4ad7-bea1-7ba386229fa0")
+	)
+	(fp_line
+		(start 1.3 -0.5)
+		(end 1.3 0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37502f12-b470-4ff6-92d7-754b39d004ee")
+	)
+	(fp_line
+		(start 1.3 0.5)
+		(end -1.3 0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78a66f43-89de-412d-80fe-b1089452f124")
+	)
+	(fp_line
+		(start 2.7 -1.25)
+		(end 2.7 1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c8cd411-24db-4681-82d3-e50df05f07dc")
+	)
+	(fp_line
+		(start 2.7 1.25)
+		(end -2.7 1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2682490a-ba49-44b2-b818-ef4da5dda240")
+	)
+	(fp_poly
+		(pts
+			(xy 0.8 -0.5) (xy 0.4 -0.5) (xy 0.4 -1.2) (xy 0.8 -1.2)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "3a9863c2-283f-4d1f-9808-4772dc36b394")
+	)
+	(fp_poly
+		(pts
+			(xy 0.8 1.2) (xy 0.4 1.2) (xy 0.4 0.5) (xy 0.8 0.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "b3dab855-7559-4982-aeb9-3cffa673456c")
+	)
+	(fp_line
+		(start -2.9 -1.5)
+		(end 2.9 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75f3d6e3-9c0e-4abc-93af-9f7a1e59f43c")
+	)
+	(fp_line
+		(start -2.9 1.5)
+		(end -2.9 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cf45f7bb-3e59-49e4-aa57-65bd1cc7e3ea")
+	)
+	(fp_line
+		(start 2.9 -1.5)
+		(end 2.9 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "62b78326-3a62-4e4e-a4b2-ce280eacfe3b")
+	)
+	(fp_line
+		(start 2.9 1.5)
+		(end -2.9 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ad590dbf-a915-47cf-8d1e-d65d2a8e8620")
+	)
+	(pad "1" smd rect
+		(at -1.75 1.95)
+		(size 1 1.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "145abafb-01ba-46bb-8360-a73a48bac1c4")
+	)
+	(pad "2" smd rect
+		(at 0 -1.95)
+		(size 1 1.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "48c11b45-e55e-4e40-a3df-6eb271b4608b")
+	)
+	(pad "3" smd rect
+		(at 1.75 1.95)
+		(size 1 1.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "86e5a809-748f-4aba-850e-231015a2bbbe")
+	)
+	(embedded_fonts no)
+	(model "${CGRANTKICADLIBRARIES}/SlideSwitch/Models/CJS-1200TB.stp"
+		(offset
+			(xyz 0 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

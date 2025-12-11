@@ -1,0 +1,297 @@
+(footprint "Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package")
+	(tags "SMD SMT crystal")
+	(property "Reference" "Y1"
+		(at 0 -2.8 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "45a03800-7a73-4e9f-977d-3e5fe519686b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "8mHz"
+		(at 0 2.8 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d8cddf8-93b1-4973-abdc-3024e0780994")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53008c3e-5972-411c-814e-464127969581")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Two pin crystal"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "deb1d802-cb1b-4676-8183-db7bedd8b2a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "535-10630-1-ND"
+		(at 281.686 181.356 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a128064-387d-489c-bff8-fbc254ba4567")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.05 -1.8)
+		(end -3.05 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8badd9d2-eb14-4db4-8047-6f9f3d9a06a3")
+	)
+	(fp_line
+		(start -3.05 1.8)
+		(end 2.7 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "69193560-cb9f-4ae2-97ec-13211081e638")
+	)
+	(fp_line
+		(start 2.7 -1.8)
+		(end -3.05 -1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1550867-7ecd-4c67-b02c-abf357f93cc7")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.093333 0)
+		(stroke
+			(width 0.186667)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "9a86f76c-5265-4e67-964c-2db992154205")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.213333 0)
+		(stroke
+			(width 0.133333)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "4051ff3c-9d37-421d-9ce5-516c39f3aa85")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.333333 0)
+		(stroke
+			(width 0.133333)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "f7b7afc7-3893-4dc5-be23-e0e821aa37a6")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.4 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "6c12617d-4796-41fe-8404-d37c42d83ed9")
+	)
+	(fp_line
+		(start -3.1 -1.9)
+		(end -3.1 1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e1c65d14-259f-4768-a14c-772d9bff35ac")
+	)
+	(fp_line
+		(start -3.1 1.9)
+		(end 3.1 1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0380884e-bd41-4804-8e22-3c0cdf51ebac")
+	)
+	(fp_line
+		(start 3.1 -1.9)
+		(end -3.1 -1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1079e6a5-daa5-4665-960d-982274e102eb")
+	)
+	(fp_line
+		(start 3.1 1.9)
+		(end 3.1 -1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7090e3d5-dcf6-4f46-bf38-dd5f1db05b77")
+	)
+	(fp_line
+		(start -2.5 -1.4)
+		(end -2.3 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5f24761-70aa-40a9-b9f3-45b349a4a4b5")
+	)
+	(fp_line
+		(start -2.5 0.6)
+		(end -1.5 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b036e80e-7f5d-4ba7-9c11-c3451ddbd69b")
+	)
+	(fp_line
+		(start -2.5 1.4)
+		(end -2.5 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f6c7822d-87b3-4c67-86eb-a54166bf8b6c")
+	)
+	(fp_line
+		(start -2.3 -1.6)
+		(end 2.3 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2030014d-2409-415e-91a3-57cb684347de")
+	)
+	(fp_line
+		(start -2.3 1.6)
+		(end -2.5 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22cff472-9795-47e5-93c2-ce69da49419b")
+	)
+	(fp_line
+		(start 2.3 -1.6)
+		(end 2.5 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7eb5ec77-4dde-4272-85c1-b14ca29a7d13")
+	)
+	(fp_line
+		(start 2.3 1.6)
+		(end -2.3 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b35a4dba-d903-459e-b725-beffffdb256d")
+	)
+	(fp_line
+		(start 2.5 -1.4)
+		(end 2.5 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4f4cf9b2-0c1b-44e5-bc45-b520298bf90c")
+	)
+	(fp_line
+		(start 2.5 1.4)
+		(end 2.3 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d703ed28-e706-4cc2-aa89-39ab89c90304")
+	)
+	(pad "1" smd rect
+		(at -2.05 0)
+		(size 2.4 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4d61ad21-264d-4c85-a016-8f1867875917")
+	)
+	(pad "2" smd rect
+		(at 2.05 0)
+		(size 2.4 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "44852f26-793a-42e0-8bc4-59a1ede45d44")
+	)
+	(embedded_fonts no)
+	(model "${CGRANTKICADLIBRARIES}/digikey-kicad-library-master/ABM3.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

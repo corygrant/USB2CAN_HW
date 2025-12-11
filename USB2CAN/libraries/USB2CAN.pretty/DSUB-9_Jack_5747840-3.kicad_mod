@@ -1,0 +1,412 @@
+(footprint "DSUB-9_Jack_5747840-3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English")
+	(property "Reference" "J2"
+		(at 0 -16.75 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "616d1853-a05b-4ea9-86bb-686f9caaf353")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DB9"
+		(at 0 4.75 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95991baf-34e8-403a-b91b-3d5365167e0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "070ef18f-9bc9-45f1-a0f0-17d6c754972e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "CONN D-SUB PLUG 9POS R/A SOLDER"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba48b8d5-cdc2-4b28-b95c-606505630449")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Category" "Connectors, Interconnects"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "235d7877-0b7b-41f2-896d-44b9c1a9ef02")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Datasheet_Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a3d4c9a-3f81-4eea-99ef-426e316bf10d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Detail_Page" "/product-detail/en/te-connectivity-amp-connectors/5747840-3/A32091-ND/808646"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "184e8eaf-7bea-404f-b5ed-6ec10f9828be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "A32091-ND"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "64e8f009-c3f5-4b1d-b366-505f9145d494")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Family" "D-Sub Connectors"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a749c4b-cec6-4919-9662-1a9756a81446")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "5747840-3"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47293de5-bf0d-4cbb-af7d-349d05561cf7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "TE Connectivity AMP Connectors"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58896ea7-39b4-4513-abcf-7c3095512ab3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Status" "Active"
+		(at 58.7248 264.3632 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec81951a-d61e-49f2-a914-ac80e53f2e13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -15.5 -15.6)
+		(end -15.5 -14.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49128d58-2d74-481e-93d3-20931e3e366a")
+	)
+	(fp_line
+		(start -15.5 2.2)
+		(end -15.5 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a8fa3ed-d524-4676-861d-0ba13ec1aa47")
+	)
+	(fp_line
+		(start -15.5 3.2)
+		(end -13.5 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb72e738-9daa-485d-9643-ea8fab93d846")
+	)
+	(fp_line
+		(start -14.8 -15.6)
+		(end -15.5 -15.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72e51aed-58fe-4748-9895-bb4568ff79b1")
+	)
+	(fp_line
+		(start 14.6 -15.6)
+		(end 15.5 -15.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e58319c1-866e-4c1d-9c0f-4ac8e92cafda")
+	)
+	(fp_line
+		(start 15.5 -15.6)
+		(end 15.5 -14.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2e40e1e5-ea20-4125-a8a1-148fe5a457cc")
+	)
+	(fp_line
+		(start 15.5 2.5)
+		(end 15.5 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c028a567-cb2c-48e0-9828-bc7c0d45b5c3")
+	)
+	(fp_line
+		(start 15.5 3.2)
+		(end 14.1 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6e37567e-e1f4-4851-b427-a3a3f65b1b29")
+	)
+	(fp_line
+		(start -15.75 -15.75)
+		(end -15.75 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "19b71ff8-aec8-4b7c-8631-3fdfa95f28bf")
+	)
+	(fp_line
+		(start -15.75 -15.75)
+		(end 15.75 -15.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5c06b2da-25fd-4a9c-b005-d246c516518b")
+	)
+	(fp_line
+		(start -15.75 3.5)
+		(end 15.75 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d7030f85-8fcb-43be-a8f3-987171d83115")
+	)
+	(fp_line
+		(start 15.75 -15.75)
+		(end 15.75 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a9720b30-d6c9-46a2-84c1-56b20eec257a")
+	)
+	(fp_line
+		(start -15.405 -15.49)
+		(end -15.405 3.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d2ab6aa-5620-48ee-8249-60495adb3ea2")
+	)
+	(fp_line
+		(start -15.405 -15.49)
+		(end 15.405 -15.49)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1160fc4d-8c23-4787-bb1e-0fabba428326")
+	)
+	(fp_line
+		(start -15.405 3.13)
+		(end 15.405 3.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "91f398c4-43d1-4a3c-86da-998d4f28d21a")
+	)
+	(fp_line
+		(start 15.405 -15.49)
+		(end 15.405 3.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8f43a03-6877-40e7-b99e-d5ca13e5fa7e")
+	)
+	(pad "1" thru_hole circle
+		(at 5.48 1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "99f1d5a7-1a01-40ba-9d81-988118dd9c31")
+	)
+	(pad "2" thru_hole circle
+		(at 2.74 1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "82750c20-da72-42b5-883b-b555a197d34a")
+	)
+	(pad "3" thru_hole circle
+		(at 0 1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b95d21b9-ece4-4a87-b253-2a7f4c186e6f")
+	)
+	(pad "4" thru_hole circle
+		(at -2.74 1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "15be7501-d9cd-463b-847b-096b40acc1ad")
+	)
+	(pad "5" thru_hole circle
+		(at -5.48 1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6b8ad361-9407-4edf-9d9c-d201a5e5ac44")
+	)
+	(pad "6" thru_hole circle
+		(at 4.11 -1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "37cde212-e247-4823-a8df-e94fd849c9b6")
+	)
+	(pad "7" thru_hole circle
+		(at 1.37 -1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6d0c8056-0443-4fbf-9214-8727eaf071d1")
+	)
+	(pad "8" thru_hole circle
+		(at -1.37 -1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "40242756-4c8a-4f76-897b-4ece483edc46")
+	)
+	(pad "9" thru_hole circle
+		(at -4.11 -1.42)
+		(size 2 2)
+		(drill 1.04)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4dc3e698-d6da-49ad-9dfa-a49d04d929ba")
+	)
+	(pad "10" thru_hole circle
+		(at -12.495 0)
+		(size 3.5 3.5)
+		(drill 3.17)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "73c37b11-fa40-4358-9c4a-1444713eebfe")
+	)
+	(pad "10" thru_hole circle
+		(at 12.495 0)
+		(size 3.5 3.5)
+		(drill 3.17)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "82e55960-1ffc-47d5-a7f7-2485b254f210")
+	)
+	(embedded_fonts no)
+	(model ":CGRANTKICADLIBRARIES:digikey-kicad-library-master/c-5747840-3-d-3d.stp"
+		(offset
+			(xyz 0 15.494 6.35)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)

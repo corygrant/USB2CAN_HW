@@ -7217,7 +7217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Crystals_Modify:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
+		(property "Footprint" "USB2CAN:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 186.055 73.66 0)
 			(effects
 				(font
@@ -7311,7 +7311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:SOT-223"
+		(property "Footprint" "USB2CAN:SOT-223"
 			(at 144.78 155.575 0)
 			(effects
 				(font
@@ -8488,7 +8488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DRTLogo:DingoFaceNoFill"
+		(property "Footprint" "USB2CAN:DingoFaceNoFill"
 			(at 273.685 162.56 0)
 			(effects
 				(font
@@ -8894,7 +8894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:SOT-23-3"
+		(property "Footprint" "USB2CAN:SOT-23-3"
 			(at 80.645 180.34 0)
 			(effects
 				(font
@@ -11324,7 +11324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SlideSwitch:CJS-1200TB"
+		(property "Footprint" "USB2CAN:CJS-1200TB"
 			(at 159.385 55.88 0)
 			(effects
 				(font
@@ -12003,7 +12003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:DSUB-9_Jack_5747840-3"
+		(property "Footprint" "USB2CAN:DSUB-9_Jack_5747840-3"
 			(at 126.365 105.41 0)
 			(effects
 				(font
