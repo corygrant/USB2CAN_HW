@@ -16,6 +16,7 @@ The firmware is a combination of [canable firmware](https://github.com/normaldot
 # [Store](https://dingo-electronics.square.site/product/usb2can/2)
 
 # Photos
+
 ![Top](/Images/Top1.jpg)
 
 ![Top2](/Images/Top2.jpg)
@@ -23,6 +24,7 @@ The firmware is a combination of [canable firmware](https://github.com/normaldot
 ![Bottom](/Images/Bottom.jpg)
 
 # Connection
+
 | Pin | Function |
 |-----|----------|
 | 1   |          |
@@ -35,13 +37,20 @@ The firmware is a combination of [canable firmware](https://github.com/normaldot
 | 8   |          |
 | 9   |          |
 
+# BOM
+
+[Interactive BOM](https://github.com/corygrant/USB2CAN_HW/tree/main/docs/bom/ibom.html)
+
 # Firmware
+
 [USB2CAN firmware](https://github.com/corygrant/USB2CAN_FW/releases)
 
 # Firmware Update
+
 Updating the USB2CAN firmware follows the same process as the dingoPDM. 
 
 See the instructions here: [dingoPDM Firmware Update](https://corygrant.github.io/dingoPDM/firmware/updating/)
 
 # Disclaimer
+
 Please note that this product has been designed by a hobbyist, not a professional. It is intended for off-road and testing use only. Users should operate the product at their own discretion and risk. The designer explicitly disclaims any responsibility for damage or injury that may result from the use of this product.
